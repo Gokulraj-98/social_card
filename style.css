@@ -1,0 +1,30 @@
+body {
+  background-color: lightgrey;
+}
+.box-part {
+  background-color: whitesmoke;
+  padding: 60px 10px;
+  margin: 10px;
+}
+.fa {
+  color: rgb(113, 113, 224);
+}
+p {
+  font-size: 13px;
+  margin: 10px;
+}
+a {
+  border-bottom: 1px solid blue;
+  font-size: 13px;
+}
+.main {
+  margin: 15px 5px;
+}
+.box {
+  margin: 50px 1px;
+}
+h1 {
+  text-align: center;
+  color: black;
+  margin-top: 10px;
+}
